@@ -2,6 +2,7 @@ Multilayer Perceptron Class
 =====
 
 Artificial Neural Network Class, programmed in [C++](https://en.wikipedia.org/wiki/C%2B%2B). 
+
 I programed it years ago for a better understanding of the Neural Networks. Might have some bugs.
 
 MLP has the following characteristics:
