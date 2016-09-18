@@ -1,5 +1,6 @@
 Multilayer Perceptron Class
 =====
+![License](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
 Artificial Neural Network Class, programmed in [C++](https://en.wikipedia.org/wiki/C%2B%2B). 
 
@@ -17,10 +18,6 @@ Data is displayed in console with several options (weights, bias, activations).
 ## Artificial Neural Network example
 
 ![Main Window](http://i.imgur.com/ACr42TV.png)
-
-### License
-
-Multilayer Perceptron Class is licensed under GPLv3. Refer to LICENSE.md for more information.
 
 ## Building
 
