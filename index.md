@@ -1,26 +1,25 @@
-Wumpus
+Multilayer Perceptron Class
 =====
 ![License](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-Wumpus game, programmed in [C++](https://en.wikipedia.org/wiki/C%2B%2B). 
+Artificial Neural Network Class, programmed in [C++](https://en.wikipedia.org/wiki/C%2B%2B). 
 
-I programed this little game years ago when I started to studying AI. 
+I programed it years ago for a better understanding of the Neural Networks. Might have some bugs.
 
-Wumpus is a classic and funny AI game in which the Hero has to pick a bag of gold or kill the the wild and savage Wumpus beast. Wumpus has the following characteristics:
-* Three(3) working modes: Normal, Faster, Debug.
-* Random squares with Wumpus, Agent, Gold and Pit.
-* Random squares with stench, shiny and breeze feelings.
-* The agent infers based on their feelings.
+MLP has the following characteristics:
+* Fully customizable layers, including multiple hidden layers.
+* Two activation functions: [Sigmoid](https://en.wikipedia.org/wiki/Sigmoid_function) and [Hyperbolic tangent](https://en.wikipedia.org/wiki/Hyperbolic_function).
+* Backward propagation of errors using gradient descent (delta rule).
+* NN weights backup once it learns.
+* Learning algorithm with learning rate (alpha) and momentum(eta)
 
-Data is displayed in console with several options (normal, faster, debug).
+Data is displayed in console with several options (weights, bias, activations).
 
-## Screenshots
+## Artificial Neural Network example
 
-![Main Window](http://i.imgur.com/KBiyTt9.png)
-
-![Game](http://i.imgur.com/WQUpthI.jpg)
+![Main Window](http://i.imgur.com/ACr42TV.png)
 
 ## Building
 
-Wumpus can be compiled with any compiler that supports C++.
+Multilayer Perceptron Class can be compiled with any compiler that supports C++.
 
